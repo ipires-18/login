@@ -1,0 +1,8 @@
+{
+  "src/capital-planner-login-legacy.tsx": {
+    "file": "capital-planner-login.js",
+    "name": "capital-planner-login",
+    "src": "src/capital-planner-login-legacy.tsx",
+    "isEntry": true
+  }
+}
