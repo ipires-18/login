@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user@gmail.com",
+      "password": "password1"
+    }
+  ],
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NTY5NTkyLCJleHAiOjE3MjU1NzMxOTJ9.Oi6UPYS3MxEvKAU7gxhUVYNwJVDmDJLpZcPfhYF7yYg"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NTczNTA1LCJleHAiOjE3MjU1NzcxMDV9.0MWcsLSA3Kic3XJH2lnxWjJo5agOp2cNPQrOLGjn5Bk"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NTc1MzUyLCJleHAiOjE3MjU1Nzg5NTJ9.9K6AdLMmfRMFMVVUgNJoiO32X5Fd-H_tU33VEuT-vQg"
+    }
+  ]
+}

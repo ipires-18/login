@@ -20,9 +20,13 @@ export default defineConfig({
         format:'systemjs',
         exports:'auto',
         entryFileNames:'[name].js',
-        chunkFileNames:'[name].js',
-        assetFileNames:'[name].[ext]',
+        chunkFileNames:'[name].js'
       }
     }
-  }
+  },
+  test: {
+    globals:true,
+    environment: 'jsdom',
+    setupFiles: './setupTests.ts',
+  },
 })
